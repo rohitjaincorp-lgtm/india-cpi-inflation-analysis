@@ -138,3 +138,24 @@ india-cpi-inflation-analysis/
 │   └── dashboard.png
 │
 └── README.md
+
+
+## Key Takeaways
+
+1. **CPI Contribution:** Under the equal-weight methodology specified in the case study, Health had the highest calculated CPI basket contribution in May 2023 at 12.99%, while Transport had the lowest at 11.53%.
+
+2. **Inflation Trend:** December 2019 recorded the highest December YoY CPI inflation in the analyzed 2017–2022 period at 7.35%.
+
+3. **Food Inflation:** Food & Beverages recorded its highest monthly inflation of 1.04% in June 2022 and its lowest of -0.66% in February 2023 during the analyzed 12-month period.
+
+4. **COVID-19:** After the March 2020 COVID milestone, monthly average Health CPI growth increased from 0.37% before March 2020 to 0.53% afterward.
+
+5. **Crude Oil Relationship:** Meat & Fish had the highest positive correlation with monthly Brent crude-price changes at r = 0.43, followed by Oils & Fats at r = 0.42. Correlation indicates association, not causation.
+
+## Methodology Notes
+
+- CPI category contributions were calculated using the equal-weight methodology specified in the case study.
+- Month-on-month (MoM) and year-on-year (YoY) inflation were calculated using percentage changes in CPI indices.
+- Q2 uses December CPI values to calculate December YoY inflation.
+- Q5 uses Brent crude as a global crude-oil price benchmark and proxy for imported oil-price movements.
+- Correlation measures linear association and does not establish causality.
